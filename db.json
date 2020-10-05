@@ -1,7 +1,8 @@
 {
-  "navigation/main": [
+  "navigation": [
     {
-      "title": "Foo"
+      "title": "Foo",
+      "id": 1
     }
   ]
 }
