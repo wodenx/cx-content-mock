@@ -1,7 +1,9 @@
 {
-  "navigation": [
-    {
-      "title": "Foo"
-    }
-  ]
+  "navigation": {
+    "main": [
+      {
+        "title": "Foo"
+      }
+    ]
+  }
 }
